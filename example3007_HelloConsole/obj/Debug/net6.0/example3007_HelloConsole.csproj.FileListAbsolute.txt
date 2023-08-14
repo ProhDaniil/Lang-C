@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\bin\Debug\net6.0\example3007_HelloConsole.exe
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\bin\Debug\net6.0\example3007_HelloConsole.deps.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\bin\Debug\net6.0\example3007_HelloConsole.runtimeconfig.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\bin\Debug\net6.0\example3007_HelloConsole.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\bin\Debug\net6.0\example3007_HelloConsole.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.AssemblyInfo.cs
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\refint\example3007_HelloConsole.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\example3007_HelloConsole.genruntimeconfig.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example3007_HelloConsole\obj\Debug\net6.0\ref\example3007_HelloConsole.dll
