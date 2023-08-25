@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.AssemblyInfo.cs
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\bin\Debug\net6.0\example011_MethodRandom.exe
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\bin\Debug\net6.0\example011_MethodRandom.deps.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\bin\Debug\net6.0\example011_MethodRandom.runtimeconfig.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\bin\Debug\net6.0\example011_MethodRandom.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\bin\Debug\net6.0\example011_MethodRandom.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\refint\example011_MethodRandom.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\example011_MethodRandom.genruntimeconfig.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example011_MethodRandom\obj\Debug\net6.0\ref\example011_MethodRandom.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.AssemblyInfo.cs
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\bin\Debug\net6.0\example008_MAX.exe
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\bin\Debug\net6.0\example008_MAX.deps.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\bin\Debug\net6.0\example008_MAX.runtimeconfig.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\bin\Debug\net6.0\example008_MAX.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\bin\Debug\net6.0\example008_MAX.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\refint\example008_MAX.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\example008_MAX.genruntimeconfig.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\example008_MAX\obj\Debug\net6.0\ref\example008_MAX.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\bin\Debug\net6.0\examole013_MethodFOR.exe
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\bin\Debug\net6.0\examole013_MethodFOR.deps.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\bin\Debug\net6.0\examole013_MethodFOR.runtimeconfig.json
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\bin\Debug\net6.0\examole013_MethodFOR.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\bin\Debug\net6.0\examole013_MethodFOR.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.AssemblyInfo.cs
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\refint\examole013_MethodFOR.dll
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.pdb
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\examole013_MethodFOR.genruntimeconfig.cache
+C:\Users\admin\Desktop\gb ru\знакомство с языками программирования\знакомство с языком C#\examples\examole013_MethodFOR\obj\Debug\net6.0\ref\examole013_MethodFOR.dll
